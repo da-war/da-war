@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rana Dawar Abdullah</h1>
-<h3 align="center">A passionate full Stack developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack React Native developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranadawar&label=Profile%20views&color=0e75b6&style=flat" alt="ranadawar" /> </p>
