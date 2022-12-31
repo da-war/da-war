@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranadawar" alt="ranadawar" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently Working on **React Native**
 
 - 👨‍💻 All of my projects are available at [www.github.com/ranadawar](www.github.com/ranadawar)
 
