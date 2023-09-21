@@ -1,7 +1,7 @@
 <h1 align="center">Rana Dawar Abdullah - Mobile App Developer</h1>
 
 <div align="center">
-  <img src="[your-profile-picture-url.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F640566746979743049%2F&psig=AOvVaw2uj2gce0NZYI3SFqJu0gLX&ust=1695425858318000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDu7dHvvIEDFQAAAAAdAAAAABAE)" alt="Profile Picture">
+  <img src="[your-profile-picture-url.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F640566746979743049%2F&psig=AOvVaw2uj2gce0NZYI3SFqJu0gLX&ust=1695425858318000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDu7dHvvIEDFQAAAAAdAAAAABAE)" alt="React Native Developer">
 </div>
 
 
