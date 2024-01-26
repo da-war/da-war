@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  Computer Science Graduate from the Number One University of Pakistan in IT, with 3 years of experience in React Native, React JS, Node.js, and Firebase.
+  Computer Science Graduate from the Number One University of Pakistan in IT, with 3 years of experience in React Native, React JS, Node.js, Expressjs, mongodb and Firebase.
 </p>
 
 ---
