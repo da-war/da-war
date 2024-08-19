@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Rana Dawar from Pakistan<br><br>- 🔭 I’m working as Senior Mobile App Developer<br>- 📚 I'm currently learning SwiftUI<br>- ⚡ In my free time I code and learn new technologies</p>
+<p align="left">I'm Senior React Native Developer from Pakistan<br><br>- 🔭 I’m working as Senior Mobile App Developer<br>- 📚 I'm currently learning SwiftUI<br>- ⚡ In my free time I code and learn new technologies</p>
 
 ###
 
