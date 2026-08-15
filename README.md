@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rana Dawar Abdullah</h1>
-<h3 align="center">Sr. Meta Certified React Native Developer <a href="https://coursera.org/share/ad49dfc31d484cf5e00534e37fb5a6ab">Verification</a></h3>
+<h3 align="center">Full Stack Software Engineer <a href="https://coursera.org/share/ad49dfc31d484cf5e00534e37fb5a6ab">Verification</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da-war&label=Profile%20views&color=0e75b6&style=flat" alt="da-war" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=da-war" alt="da-war" /></a> </p>
 
-- 🔭 I’m currently working on **React Native Optimization**
+- 🔭 I’m currently working on **React Native, Nextjs and Spring Boot**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Products Helping People Improving their life**
 
-- 💬 Ask me about **react native, full stack Javascript, typescript, SQL, Mongo, Mobile apps**
+- 💬 Ask me about **ReactJs, NextJS, react native, Spring Boot, ExpressJS, NestJS, full stack Javascript, typescript, SQL, Mongo, Mobile apps, Github Actions, Docker**
 
 - 📫 How to reach me **ranadawarabdullah@gmail.com**
 
